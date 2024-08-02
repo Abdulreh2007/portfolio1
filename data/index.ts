@@ -79,12 +79,12 @@ export const navItems = [
       link: "https://eyeclinicbradforduk.vercel.app/",
     },
     {
-      id: 2,
-      title: "Abdul's blog with sanity  ",
-      des: "A simple blog website which I created with sanity and an Admin page ",
-      img: "/my-4.png",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg",  '/sanity.png'],
-      link: "",
+      id: 4,
+      title: "AI Image SaaS - Canva Application",
+      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
+      img: "/p3.svg",
+      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/c.svg"],
+      link: "https://imaginify-abdul.vercel.app/",
     },
     {
       id: 3,
@@ -92,16 +92,17 @@ export const navItems = [
       des: "A Cafe based website where you can book table or order food or see the cafe speacilites",
       img: "/my-5.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg",  "/c.svg"],
-      link: "",
+      link: "https://imaginify-abdul.vercel.app/",
     },
     {
-      id: 4,
-      title: "AI Image SaaS - Canva Application",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-      img: "/p3.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "/ui.aiimg.com",
+      id: 2,
+      title: "Abdul's blog with sanity  ",
+      des: "A simple blog website which I created with sanity and an Admin page ",
+      img: "/my-4.png",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg",  '/sanity.png'],
+      link: "https://eyeclinicbradforduk.vercel.app/",
     },
+   
   ];
   
   export const testimonials = [
@@ -201,13 +202,16 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+       link: ''
     },
     {
       id: 2,
       img: "/twit.svg",
+     
     },
     {
       id: 3,
       img: "/link.svg",
+       link: 'https://www.linkedin.com/in/abdul-rehman-shafqat-b8981b2a5/'
     },
   ];
